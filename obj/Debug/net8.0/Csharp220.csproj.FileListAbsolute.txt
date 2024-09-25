@@ -1,0 +1,14 @@
+C:\Users\jaxon\eclipse-workspace_hexadecimal\hexadecimal.c\src\Csharp220\obj\Debug\net8.0\Csharp220.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaxon\eclipse-workspace_hexadecimal\hexadecimal.c\src\Csharp220\obj\Debug\net8.0\Csharp220.AssemblyInfoInputs.cache
+C:\Users\jaxon\eclipse-workspace_hexadecimal\hexadecimal.c\src\Csharp220\obj\Debug\net8.0\Csharp220.AssemblyInfo.cs
+C:\Users\jaxon\eclipse-workspace_hexadecimal\hexadecimal.c\src\Csharp220\obj\Debug\net8.0\Csharp220.csproj.CoreCompileInputs.cache
+C:\Users\jaxon\eclipse-workspace_hexadecimal\hexadecimal.c\src\Csharp220\bin\Debug\net8.0\Csharp220.exe
+C:\Users\jaxon\eclipse-workspace_hexadecimal\hexadecimal.c\src\Csharp220\bin\Debug\net8.0\Csharp220.deps.json
+C:\Users\jaxon\eclipse-workspace_hexadecimal\hexadecimal.c\src\Csharp220\bin\Debug\net8.0\Csharp220.runtimeconfig.json
+C:\Users\jaxon\eclipse-workspace_hexadecimal\hexadecimal.c\src\Csharp220\bin\Debug\net8.0\Csharp220.dll
+C:\Users\jaxon\eclipse-workspace_hexadecimal\hexadecimal.c\src\Csharp220\bin\Debug\net8.0\Csharp220.pdb
+C:\Users\jaxon\eclipse-workspace_hexadecimal\hexadecimal.c\src\Csharp220\obj\Debug\net8.0\Csharp220.dll
+C:\Users\jaxon\eclipse-workspace_hexadecimal\hexadecimal.c\src\Csharp220\obj\Debug\net8.0\refint\Csharp220.dll
+C:\Users\jaxon\eclipse-workspace_hexadecimal\hexadecimal.c\src\Csharp220\obj\Debug\net8.0\Csharp220.pdb
+C:\Users\jaxon\eclipse-workspace_hexadecimal\hexadecimal.c\src\Csharp220\obj\Debug\net8.0\Csharp220.genruntimeconfig.cache
+C:\Users\jaxon\eclipse-workspace_hexadecimal\hexadecimal.c\src\Csharp220\obj\Debug\net8.0\ref\Csharp220.dll
